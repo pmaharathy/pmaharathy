@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome:
 I'm Priyanka<br>I love learning new technoloies
 
 
