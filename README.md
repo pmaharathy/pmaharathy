@@ -1,5 +1,5 @@
 # 💫 <Namaste, World!/>
-<br><br>I'm Priyanka<br>I love to learn new technologies <br><br>Mainly interested in web and software development.
+<hr align:center>I'm Priyanka<br>I love to learn new technologies.<br>Mainly interested in web and software development.
 
 
 # 💻 Tech Stack:
