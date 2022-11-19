@@ -1,5 +1,5 @@
-# 💫 Welcome:
-I'm Priyanka<br>I love learning new technoloies
+# 💫 Welcome
+I'm Priyanka<br>I love to learn new technologies
 
 
 # 💻 Tech Stack:
